@@ -207,19 +207,7 @@ rather than only building isolated personal projects.
 
 `Data Structures & Algorithms` , `Operating Systems` ,`Computer Networks` ,`Distributed Systems` ,`Cloud Computing` ,`Machine Learning` ,`Cybersecurity` ,`Open Source Development` ,`Software Engineering`
 
----
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anvith-Kanchan&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvith-Kanchan&layout=compact&hide_border=true&langs_count=8" />
-
-</div>
-
----
 
 ## 🎯 Long-Term Direction
 
