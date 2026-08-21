@@ -205,23 +205,7 @@ rather than only building isolated personal projects.
 
 ## 📚 What I'm Learning
 
-`Data Structures & Algorithms`
-
-`Operating Systems`
-
-`Computer Networks`
-
-`Distributed Systems`
-
-`Cloud Computing`
-
-`Machine Learning`
-
-`Cybersecurity`
-
-`Open Source Development`
-
-`Software Engineering`
+`Data Structures & Algorithms` , `Operating Systems` ,`Computer Networks` ,`Distributed Systems` ,`Cloud Computing` ,`Machine Learning` ,`Cybersecurity` ,`Open Source Development` ,`Software Engineering`
 
 ---
 
