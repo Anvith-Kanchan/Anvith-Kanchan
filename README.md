@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Financial Technology student interested in building software that solves practical problems.
+I'm a Computer Science student interested in financial technology building software that solves practical problems.
 
 My interests have grown across **software development, cloud-native systems, artificial intelligence, cybersecurity, developer tooling, and financial technology**.
 
